@@ -1,0 +1,91 @@
+.body {
+    font-family: "Open Sans";
+    margin: 0;
+}
+.navbar{
+    background-color: #0f1111;
+    height: 60px;
+    display: flex;
+}
+.logo {
+    height: 1.4cm;
+    padding-left: 12px;
+    padding-top: 10px;
+}
+.logo1 {
+    height: 1.1cm;
+}
+.location{
+    padding-left: 25px;
+    display: flex;
+    height: 1.6cm;
+}
+.loc_logo{
+    height: 1.1cm;
+    padding-top: 25px;
+}
+.address{
+    padding-left: 7px;
+    padding-top: 3px;
+}
+.add1{
+    color: #cccccc;
+    font-size: 12px;
+    height: 2px;
+}
+.add2{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 620;
+}
+.searchbar{
+    width: 500px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.b1{
+    background-color: #e6e6e6;
+    height: 40px;
+    width: 50px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    font-size: 14px;
+    color: #0f1111;
+    display: flex;
+    align-items: center;
+}
+.b11{
+    padding-left: 10px;
+}
+.b2{
+    height: 40px;
+    width: 398px;
+    background-color: transparent;
+    align-items: center;
+    display: flex;
+}
+.form{
+    display: flex;
+    align-items: center;
+}
+.search-input{
+    height: 34px;
+    width: 340px;
+    border-color: transparent;
+    font-size: 17px;
+    background-color: white;
+}
+.search-button{
+    height: 40px;
+    width: 45px;
+    background-color: #FEBD69;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-color: transparent;
+    justify-content: center;
+    
+}
+
+
